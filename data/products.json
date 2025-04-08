@@ -241,9 +241,9 @@
     "country_code": "US",
     "alternatives": [
       {
-        "name": "Jitsi Meet",
-        "country_code": "DE",
-        "link": "https://jitsi.org/"
+        "name": "V.connct",
+        "country_code": "EG",
+        "link": "https://vconnct.me/"
       },
       {
         "name": "BigBlueButton",
